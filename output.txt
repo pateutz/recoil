@@ -1,0 +1,29 @@
+switch to 1
+time = 83, move = 17
+time = 84, move = 17
+time = 87, move = 18
+time = 86, move = 18
+time = 87, move = 18
+time = 87, move = 18
+time = 87, move = 18
+time = 83, move = 17
+time = 88, move = 18
+time = 86, move = 18
+time = 84, move = 17
+time = 82, move = 17
+time = 83, move = 17
+time = 82, move = 17
+time = 84, move = 17
+time = 89, move = 18
+time = 82, move = 17
+time = 86, move = 18
+time = 87, move = 18
+time = 82, move = 17
+time = 87, move = 18
+time = 87, move = 18
+time = 89, move = 18
+time = 83, move = 17
+time = 89, move = 18
+switch to 4x
+time = 83, move = 71
+time = 88, move = 76
