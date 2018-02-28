@@ -1,5 +1,5 @@
 # pubg_recoil
-init:
+
 1. The role of this script is automatically compress the gun when the user presses the mouse
 2. Parameters and calculation method Reference is the Logitech mouse macro on github
 3. mouse down is to call DD XOFT virtual mouse, driver-level, but does not rule out the possibility of being blocked
