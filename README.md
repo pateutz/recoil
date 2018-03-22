@@ -1,3 +1,5 @@
+# !!! DETECTED DONT USE !!!
+
 # pubg_recoil
 
 1. The role of this script is automatically compress the gun when the user presses the mouse
